@@ -1,0 +1,35 @@
+.list-category{
+    font-size: 2em;
+    font-weight: bold;
+    color:aquamarine;
+    margin-bottom: 10px;
+    text-align: center;
+    border: 3px solid;
+    border-radius: 5px;
+    background-color: hsl(185, 100%, 50%);
+}
+
+table {
+  width: 70%;
+  margin: 20px auto;
+  border-collapse: collapse;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  box-shadow: 0 0 10px rgba(0,0,0,1.1);
+}
+
+th, td {
+  padding: 12px 20px;
+  text-align: left;
+  border: 1px solid #999;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #6DAAB0;
+  color: white;
+}
+
+tr:hover {
+  background-color: #f1f1f1;
+}
